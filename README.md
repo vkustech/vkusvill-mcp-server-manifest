@@ -26,7 +26,7 @@
     * Добавлен параметр *category_id*
   * Добавлен тул *vkusvill_product_barcode*
 
-### **1.0.** MCP-сервер с авторизацией 
+### **1.0.** MCP-сервер с авторизацией https://habr.com/ru/companies/vkusvill/articles/1094732/
 
 * **Сентябрь 2026 -** MCP-сервер с авторизацией OAuth 2.0 + PKCE
   * Тул *vkusvill_products_search* делает поиск по актуальному для авторизованного пользователя каталогу

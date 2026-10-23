@@ -36,4 +36,7 @@
   * Увеличены rate limits
 * **Октябрь 2026**
    * Добавлен тул *vkusvill_discounts_personal*
-   * Тул *vkusvill_cart_link_create* возвращает омниканальную сссылку
+   * Изменения в туле *vkusvill_cart_link_create*
+     *  Возвращает омниканальную сссылку
+     *  Принимает до 100 товаров
+   * Добавлен refresh token
